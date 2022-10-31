@@ -32,7 +32,7 @@ fun_bar () {
 
 clear&&clear
 echo -e "\033[1;31m———————————————————————————————————————————————————\033[1;37m"
-echo -e "\033[1;32m             ALFAINTERNET WEBSOCKET SSH "
+echo -e "\033[1;32m             Samuraiexecutor WEBSOCKET SSH "
 echo -e "\033[1;31m———————————————————————————————————————————————————\033[1;37m"
 echo -e "\033[1;37m      WEBSOCKET SSH USARA A PORTA 80 e 443"
 echo

@@ -1,6 +1,6 @@
 #!/bin/bash
 ####################################<
-### "BY @ALFAINTERNET <<" ###
+### "BY Samuraiexecutor <<" ###
 ####################################<
 user=$(whoami)
 if [ "$user" != "root" ]; then

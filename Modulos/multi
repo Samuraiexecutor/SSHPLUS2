@@ -4,7 +4,7 @@ echo "/root/multi.sh" > /bin/mko && chmod +x /bin/mko > /dev/null 2>&1
 
 ##SCRIPTS A INSTALAR
 
-##ALFAINTERNET
+##Samuraiexecutor
 
 SINCRONIZARPAINEL () {
       bash <(wget -qO- sshplus.xyz/scripts/utilitarios/syncpainel/inst)
@@ -16,7 +16,7 @@ PAINELV20 () {
     wget https://raw.githubusercontent.com/fabricio94b/Painel-v20/main/install; chmod +x install; ./install
 }
 HABILITAR-ROOT () {
-    wget https://raw.githubusercontent.com/alfainternet/SSHPLUS/main/senharoot.sh && chmod 777 senharoot.sh && ./senharoot.sh
+    wget https://raw.githubusercontent.com/Samuraiexecutor/SSHPLUS/main/senharoot.sh && chmod 777 senharoot.sh && ./senharoot.sh
 }
 BOTFREE () {
     wget https://raw.githubusercontent.com/fabricio94b/botfree/main/iniciar.sh -O iniciar.sh; chmod +x iniciar.sh; ./iniciar.sh
