@@ -2,7 +2,6 @@
 #===================================================
 #	SCRIPT: OTIMIZAR	SSHPLUS MANAGER
 #	DESENVOLVIDO POR:	Samuraiexecutor
-#	CANAL TELEGRAM:	http://t.me/Samuraiexecutor
 #===================================================
 fun_bar() {
 	comando[0]="$1"

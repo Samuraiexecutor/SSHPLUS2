@@ -118,7 +118,7 @@ wget https://raw.githubusercontent.com/AKBSIJSHSI/MASTER/main/Modulos/ShellBot.s
 chmod 777 ShellBot.sh > /dev/null 2>&1
 cd > /dev/null 2>&1
 #-----------------------------------------------------------------------------------------------------------------
-echo -e "\n\033[1;32mTUDO PRONTO HORA DO SHOW! \033[1;32m"
+echo -e "\n\033[1;32mTUDO PRONTO BORA CONTINUAR ! \033[1;32m"
 sleep 2s
 echo ""
 [[ -f "$HOME/usuarios.db" ]] && {
@@ -225,7 +225,7 @@ wget https://raw.githubusercontent.com/AKBSIJSHSI/MASTER/main/Modulos/ShellBot.s
 chmod 777 ShellBot.sh > /dev/null 2>&1
 cd > /dev/null 2>&1
 #-----------------------------------------------------------------------------------------------------------------
-echo -e "\n\033[1;32mTUDO PRONTO HORA DO SHOW! \033[1;32m"
+echo -e "\n\033[1;32mTUDO PRONTO BORA INSTALAR ! \033[1;32m"
 sleep 2s
 echo ""
 [[ -f "$HOME/usuarios.db" ]] && {
